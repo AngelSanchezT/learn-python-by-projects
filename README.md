@@ -1,6 +1,14 @@
 # learn-python-by-projects
 learn-python-by-projects: A repository for hands-on Python learning through practical projects.
 
+## Table of Contents
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contribution](#contribution)
+- [License](#license)
+
 ## Overview
 
 Welcome to the "learn-python-by-projects" repository! This repository is designed to provide a hands-on learning experience for Python programming through a collection of practical projects. Whether you are a beginner looking to learn Python from scratch or an intermediate developer aiming to reinforce your Python skills, this repository offers a structured and engaging approach to learning through project-based exploration.
@@ -39,15 +47,4 @@ If you'd like to contribute to this repository by adding new projects or improvi
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources for educational purposes.
-
-
-
-# learn-python-by-projects
-
-
-## Getting Started
-To use this repository and start learning Python through projects, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
 
