@@ -9,6 +9,22 @@ Cada día del 05 al 09 de Febrero, en el sitio de codigo facilito [#RetoPython](
 publicaran una clase nueva con fundamentos de programación y Python, esta vendrá acompañada de un reto que deberás completar
 para avanzar en el #RetoPython.
 
+## Temas Aprendidos
+
+- Dia 0: Lunes
+  - Qué es el reto python?
+  - Como usar gist para entregar tus soluciones a los retos.
+  - Instalación de Python en Windows
+  - Instalación de Python en Mac
+- Día 1: Lunes => Tipos de Datos
+- Día 2: Martes => Estructuras de Control
+- Día 3: Miércoles => Listas
+- Día 4: Jueves => Tuplas y diccionarios
+- Día 5: Viernes => Funciones
+
+
+## Desafios
+
 ### Día 1: Lunes
 
 Para este primer reto de la semana, tu objetivo será poder crear un programa en Python el cual permita registrar a un usuario en el sistema.
