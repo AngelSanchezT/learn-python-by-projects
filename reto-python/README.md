@@ -70,3 +70,27 @@ Estas 3 nuevas opciones deberán ser presentadas al usuario al comienzo del prog
 De igual forma el programa tendrán una quinta opción que le permita la usuario finalizar el programa cuando él lo desee.
 
 Un Tip. Para estas nuevas opciones puedes presentarle a tu usuario un pequeño menú del cual pueda elegir. Por ejemplo opción A.-) registrar nuevos usuarios, opción B.-) listar usuarios, Opción C.-) Editar usuarios y así sucesivamente.
+
+### Día 5: Viernes
+
+Listo, llegamos al reto número 5 de la semana. Nuestro programa ya funciona sumamente bien. Ya podemos crear, listar y editar usarios.
+
+Sin embargo, muy probablemente el código que tengamos hasta ahora pueda mejorar significativamente, es por ello que, para el reto de hoy vamos a definir 5 nuevas funciones; esto con la finalidad de poder separar nuestro código y que este sea fácil de leer, comprender y sobre todo mantener.
+
+Las 5 nuevas funciones serán las siguientes.
+
+new_user
+
+show_user
+
+edit_user
+
+delete_user
+
+list_users
+
+Las funciones, como bien sus nombre nos indican, nos permitirán seperar nuestra lógica para poder crear nuevos usuarios, consultarlos, editarlos, eliminarlos (Que es una nueva acción) y listarlos.
+
+Con Excepción de list_users y new_user, cada una de estas funciones deberá recibir como parámetro el ID de usuario con el cual se desea trabajar.
+
+Un pro Tip. Recuerda que las opciones puedas almacenarlas en como llaves en un diccionario y que, quizás, puedas almacenar las funciones en valores de esas llaves.
