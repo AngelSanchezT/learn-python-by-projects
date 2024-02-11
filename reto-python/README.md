@@ -11,14 +11,25 @@ para avanzar en el #RetoPython.
 
 ## Temas Aprendidos
 
-- Dia 0: Lunes
+- Dia 0: Introducción al #RetoPython
   - Qué es el reto python?
   - Como usar gist para entregar tus soluciones a los retos.
   - Instalación de Python en Windows
   - Instalación de Python en Mac
-- Día 1: Lunes => Tipos de Datos
+- Día 1: Lunes =>
+  - Variables,
+  - Tipos de Datos (`int` - `float` - `str`)
+  - Operadores relacionales ( `==`, `!=`, `>`, `>=`, `<`, `<=` )
+  - Metodos python (`print`, `input`, `int`, `float`, `str`)
 - Día 2: Martes => Estructuras de Control
+  - `if`, `elif`, `match` (switch)
+  - `foreach` => Cuando sepamos cuantas iteraciones se necesitan.
+  - `while` => Cuando NO sepamos cuantas iteraciones se necesitan (Condición).
 - Día 3: Miércoles => Listas
+  - Listas: Estructuras de Datos
+  - Metodos de Listas: `append`, `insert`, `extend`, `remove`, `clear`, `count`, `index`
+  - `value in list` => `True` o `False`
+  - Indices.
 - Día 4: Jueves => Tuplas y diccionarios
 - Día 5: Viernes => Funciones
 
