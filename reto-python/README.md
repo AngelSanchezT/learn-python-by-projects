@@ -38,7 +38,7 @@ para avanzar en el #RetoPython.
 
 ## Desafios
 
-### Día 1: Lunes
+### 🐍 Día 1: Lunes
 
 Para este primer reto de la semana, tu objetivo será poder crear un programa en Python el cual permita registrar a un usuario en el sistema.
 
@@ -53,7 +53,7 @@ Una vez el usuario haya ingresado todos los datos vía teclado, el programa le d
 
 Hola + seguido del nombre completo del usuario +, en breve recibirás un correo a + seguido del correo electrónico.
 
-### Día 2: Martes
+### 🐍 Día 2: Martes
 
 Para este segundo reto de la semana tu objetivo será incrementar el funcionamiento del programa del día de ayer. Si recordamos, ayer construimos un programa en Python capaz de registrar un nuevo usuario en el sistema. Pues bien, continuando con el proyecto, el reto de hoy será que podremos registrar un N cantidad de nuevos usuarios.
 
@@ -69,7 +69,7 @@ Así mismo el número de teléfono será a 10 dígitos.
 
 Si por alguna razón el usuario ingresa mal alguno de estos datos, el programa deberá notificarle y no permitirá continuar hasta que se ingresen datos correctos.
 
-### Día 3: Miércoles
+### 🐍 Día 3: Miércoles
 
 Vaya, ya llegamos al reto número 3 de la semana, y para este tercer reto lo que haremos será añadir 2 nuevas funcionalidades a nuestro programa de registro de usuarios.
 
@@ -80,7 +80,7 @@ Estas funcionalidades son las siguientes
 
 Con estas 2 nuevas funcionalidades es probable te intuyas como iremos finalizando nuestro programa para el quinto día.
 
-### Día 4: Jueves
+### 🐍 Día 4: Jueves
 
 Ya nos encontramos en la recta final de nuestra semana, y lo que haremos ahora, cómo ya es costumbre, será añadir más funcionalidades a nuestro programa.
 
@@ -100,7 +100,7 @@ De igual forma el programa tendrán una quinta opción que le permita la usuario
 
 Un Tip. Para estas nuevas opciones puedes presentarle a tu usuario un pequeño menú del cual pueda elegir. Por ejemplo opción A.-) registrar nuevos usuarios, opción B.-) listar usuarios, Opción C.-) Editar usuarios y así sucesivamente.
 
-### Día 5: Viernes
+### 🐍 Día 5: Viernes
 
 Listo, llegamos al reto número 5 de la semana. Nuestro programa ya funciona sumamente bien. Ya podemos crear, listar y editar usarios.
 
